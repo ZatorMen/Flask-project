@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+	background-image: url(../img/bllurred-bg.jpg);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.btn{
+	background-color: rgb(0, 91, 136);
+}
+
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #0693e3;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.capt{
+	text-align: center;
+	color: white;
+}
+
+.form-check-input{
+	margin: 5px 0 5px 0;
+}
+
+.form-control{
+	margin: 5px 0 5px 0;
